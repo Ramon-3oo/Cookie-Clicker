@@ -15,7 +15,7 @@ Cookie Clicker is a simple yet addictive incremental game where players earn coo
 - **JavaScript** - Game logic and interactivity  
 
 ## Simple play
-- go to this website:
+- go to this website: https://ramon-3oo.github.io/Cookie-Clicker/
 
 ## Installation  
 1. Clone this repository:  
