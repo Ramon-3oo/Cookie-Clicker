@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Clicker</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="score">
+        <h1>Score: <span id="score">0</span></h1>
+        <p>Cookies per click: <span id="cpcText">1</span></p>
+        <p>Cookies per seccond: <span id="cpsText">0</span></p>
+    </div>
+    <div class="cookie">
+        <button class="btn">
+            <img src="media/cookie.png" alt="cookie" onclick="IncreaseScore()" class="cookieImage">
+        </button>
+    </div>
+    <div class="upgrade">
+        <div class="upgrades">Upgrade 1 CPC: <span id="cpc"></span> Price: <span id="pricecpc"></span> <button onclick="upgradeCPC()" class="upgradebtn">Upgrade</button></div>
+        <div class="upgrades">Upgrade 1 CPS: <span id="cps"></span> Price: <span id="pricecps"></span> <button onclick="upgradeCPS()" class="upgradebtn">Upgrade</button></div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
