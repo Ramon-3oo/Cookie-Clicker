@@ -20,7 +20,7 @@ Cookie Clicker is a simple yet addictive incremental game where players earn coo
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/ramon-3oo/cookie-clicker.git
+   git clone https://github.com/Ramon-3oo/cookie-clicker.git
    ```
 2. Open `index.html` in your browser.  
 
